@@ -1,0 +1,23 @@
+.flexRow {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.title {
+	margin: 56px;
+}
+.input {
+	border: 0px;
+	height: 3em;
+	width: 170px;
+	border-bottom: 2px solid var(--text-color);
+	margin: 0.2em;
+}
+.login {
+	margin: 0.2em;
+	width: 4em;
+	border: 0px;
+	/* margin-bottom: 5px; */
+	border-radius: 0;
+	height: 3em;
+}
